@@ -1,6 +1,6 @@
 <template>
   <div class="py-14">
-    <div class="text-4xl app-font-Semibold">Our Fleet</div>
+    <div class="text-5xl app-font-Semibold">Our Fleet</div>
     <div class="mt-4 text-[18px] w-1/2">
       Experience the pinnacle of luxury with our diverse fleet. Whether you're
       traveling solo or with a group, we have the perfect jet to suit your

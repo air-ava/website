@@ -1,6 +1,6 @@
 <template>
   <div class="py-14">
-    <div class="text-4xl app-font-Semibold">Why Choose Us</div>
+    <div class="text-5xl app-font-Semibold">Why Choose Us</div>
     <section class="mt-8">
       <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
         <div v-for="list in chooseList" :key="list.index">

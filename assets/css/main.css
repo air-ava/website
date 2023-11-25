@@ -51,3 +51,16 @@
 .btn {
   color: white;
 }
+
+.bg-white {
+  background-color: white;
+}
+
+.set-text-white {
+  color: white;
+}
+
+.inputClass {
+  background-color: transparent;
+  width: 100%;
+}

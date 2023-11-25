@@ -9,9 +9,8 @@
         </div>
         <div class="md:col-span-2 flex justify-end">
           <div class="md:w-[90%] pt-20">
-            <div class="text-4xl app-font-Semibold">
-              Discover<br />
-              Nigeria and Beyond
+            <div class="text-5xl app-font-Semibold">
+              Discover Nigeria and Beyond
             </div>
             <div class="text-[18px] mt-5">
               Whether it's a business trip within Nigeria or a leisurely escape
