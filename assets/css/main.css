@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+@layer components {
+  .btn-primary {
+    @apply text-white py-3 px-6 bg-primary;
+  }
+} */
+
+@font-face {
+  font-family: "Galano-Grotesque-Bold";
+  src: url(../fonts/Galano-Grotesque-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Galano-Grotesque-Semibold";
+  src: url(../fonts/Galano-Grotesque-Semi-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Galano-Grotesque-Medium";
+  src: url(../fonts/Galano-Grotesque-Medium.ttf);
+}
+
+@font-face {
+  font-family: "Galano-Grotesque-Regular";
+  src: url(../fonts/Galano-Grotesque.ttf);
+}
+
+.app-font-bold {
+  font-family: "Galano-Grotesque-Bold";
+}
+
+.app-font-Semibold {
+  font-family: "Galano-Grotesque-Semibold";
+}
+
+.app-font-Medium {
+  font-family: "Galano-Grotesque-Medium";
+}
+
+.app-font-Regular {
+  font-family: "Galano-Grotesque-Regular";
+}
+
+* {
+  font-family: "Galano-Grotesque-Regular";
+}
+
+.btn {
+  color: white;
+}
