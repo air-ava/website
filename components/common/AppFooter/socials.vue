@@ -2,11 +2,18 @@
   <div class="bg-primary">
     <section class="py-14 max-w-7xl mx-auto px-6">
       <div class="grid grid-cols-1 md:grid-cols-7 gap-6">
+        <div class="block md:hidden mb-6">
+          <div>
+            <NewsLetter />
+          </div>
+        </div>
         <div class="md:col-span-4 set-text-white">
           <div class="md:w-3/5">
             <div class="text-xl app-font-Semibold">Air Ava</div>
-            <div class="text-[16px] mt-2">Winged for your comfort</div>
-            <div class="text-[16px] mt-3">
+            <div class="text-[14px] md:text-[16px] mt-2">
+              Winged for your comfort
+            </div>
+            <div class="text-[14px] md:text-[16px] mt-3">
               Connect with us on social media to see our latest journeys and
               updates.
             </div>
@@ -20,7 +27,7 @@
             </div>
           </div>
         </div>
-        <div class="md:col-span-3">
+        <div class="md:col-span-3 hidden md:block">
           <div>
             <NewsLetter />
           </div>

@@ -1,6 +1,6 @@
 <template>
   <div class="space-y-3">
-    <div class="text-4xl app-font-Semibold set-text-white">
+    <div class="text-3xl lg:text-4xl app-font-Semibold set-text-white">
       Stay in the Loop
     </div>
     <div class="text-[16px] set-text-white">
