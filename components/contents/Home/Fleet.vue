@@ -8,7 +8,7 @@
     </div>
     <div class="py-4 md:py-8">
       <a
-        href="https://whatsform.com/j4wsw1"
+        href="#"
         target="_blank"
         class="btn bg-primary text-sm md:text-md py-3 px-4 lg:py-6 lg:px-12 rounded-[4px]"
       >
