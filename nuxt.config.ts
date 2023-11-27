@@ -1,5 +1,4 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-// header scripts can be added as an array
 export default defineNuxtConfig({
   app: {
     head: {
