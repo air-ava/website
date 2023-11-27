@@ -8,7 +8,7 @@ export default defineNuxtConfig({
           id: "wf-widget",
           async: true,
           defer: true,
-          "data-id": "J4wsW1",
+          "data-id": "_EXmQL",
           "data-message": "Message on WhatsApp",
         },
       ],
