@@ -2,7 +2,9 @@
   <div class="py-8 md:py-14">
     <div class="text-3xl lg:text-5xl app-font-Semibold">Why Choose Us</div>
     <section class="mt-6 md:mt-8">
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div
+        class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-2 md:gap-6"
+      >
         <div v-for="list in chooseList" :key="list.index">
           <ChooseUs
             :title="list.title"

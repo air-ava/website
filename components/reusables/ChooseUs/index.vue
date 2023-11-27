@@ -1,11 +1,14 @@
 <template>
   <div>
-    <div class="h-[356px] rounded-[4px] relative" :class="className">
-      <div class="absolute bottom-0 m-5">
-        <div class="text-[22px] choose-title app-font-Semibold">
+    <div
+      class="h-[199px] md:h-[356px] rounded-[4px] relative"
+      :class="className"
+    >
+      <div class="absolute bottom-0 m-3 md:m-5">
+        <div class="text-[16px] md:text-[22px] choose-title app-font-Semibold">
           {{ title }}
         </div>
-        <div class="choose-text text-sm mt-2">
+        <div class="choose-text text-[10px] md:text-sm md:mt-2">
           {{ text }}
         </div>
       </div>
@@ -49,12 +52,16 @@ export default {
 
 .choose3 {
   background: linear-gradient(0deg, #000 0%, rgba(0, 0, 0, 0) 100%),
-    url(https://res.cloudinary.com/godfadatun/image/upload/v1701054574/airava/choose3_t1visr.png);
+    url(https://res.cloudinary.com/godfadatun/image/upload/v1701054574/airava/choose3_t1visr.png),
+    no-repeat;
+  background-size: cover;
 }
 
 .choose4 {
   background: linear-gradient(0deg, #000 0%, rgba(0, 0, 0, 0) 100%),
-    url(https://res.cloudinary.com/godfadatun/image/upload/v1701054573/airava/choose4_hvoojo.png);
+    url(https://res.cloudinary.com/godfadatun/image/upload/v1701054573/airava/choose4_hvoojo.png),
+    no-repeat;
+  background-size: cover;
 }
 
 .choose-title {
