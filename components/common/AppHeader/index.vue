@@ -3,9 +3,13 @@
     <nav class="flex items-center justify-between">
       <div><img src="/images/logo.svg" alt="" /></div>
       <div>
-        <button class="btn rounded-[4px] py-2 px-6 bg-primary">
+        <a
+          href="https://whatsform.com/_EXmQL"
+          target="_blank"
+          class="btn text-sm rounded-[4px] py-3 px-6 bg-primary"
+        >
           Contact Us
-        </button>
+        </a>
       </div>
     </nav>
   </section>
