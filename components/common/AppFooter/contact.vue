@@ -14,14 +14,20 @@
               quote. 
             </div>
             <div class="flex justify-start mt-6 space-x-3 md:space-x-6">
-              <button class="bg-white py-3 px-4 lg:py-6 lg:px-12 rounded-[4px]">
+              <a
+                href="https://forms.gle/NP4GSv5QNUjzkrxC8"
+                target="_blank"
+                class="bg-white py-3 px-4 lg:py-6 lg:px-12 rounded-[4px]"
+              >
                 Book Now
-              </button>
-              <button
+              </a>
+              <a
+                href="tel:+2347012345678"
+                target="_blank"
                 class="border border-white btn py-3 px-4 lg:py-6 lg:px-12 rounded-[4px]"
               >
                 Call +234 701 234 5678
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -37,14 +43,20 @@
             <div
               class="flex justify-start mt-6 text-sm md:text-md space-x-3 md:space-x-6"
             >
-              <button class="bg-white py-3 px-3 lg:py-6 lg:px-12 rounded-[4px]">
+              <a
+                href="https://forms.gle/NP4GSv5QNUjzkrxC8"
+                target="_blank"
+                class="bg-white py-3 px-3 lg:py-6 lg:px-12 rounded-[4px]"
+              >
                 Book Now
-              </button>
-              <button
+              </a>
+              <a
+                href="tel:+2347012345678"
+                target="_blank"
                 class="border border-white btn py-3 px-3 lg:py-6 lg:px-12 rounded-[4px]"
               >
                 Call +234 701 234 5678
-              </button>
+              </a>
             </div>
           </div>
         </div>

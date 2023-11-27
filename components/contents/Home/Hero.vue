@@ -23,16 +23,20 @@
           Nigerians, we're here to redefine your travel experience.
         </div>
         <div class="flex justify-start mt-3 md:mt-6 space-x-3 md:space-x-6">
-          <button
+          <a
+            href="https://forms.gle/NP4GSv5QNUjzkrxC8"
+            target="_blank"
             class="btn bg-primary text-sm md:text-md py-2 px-3 lg:py-6 lg:px-12 rounded-[4px]"
           >
             Book Now
-          </button>
-          <button
+          </a>
+          <a
+            href="tel:+2347012345678"
+            target="_blank"
             class="border border-black py-2 px-3 lg:py-6 lg:px-12 rounded-[4px]"
           >
             Call +234 701 234 5678
-          </button>
+          </a>
         </div>
       </div>
     </div>
