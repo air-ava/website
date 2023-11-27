@@ -24,7 +24,7 @@
         </div>
         <div class="flex justify-start mt-3 md:mt-6 space-x-3 md:space-x-6">
           <a
-            href="https://forms.gle/NP4GSv5QNUjzkrxC8"
+            href="https://whatsform.com/j4wsw1"
             target="_blank"
             class="btn bg-primary text-sm md:text-md py-2 px-3 lg:py-6 lg:px-12 rounded-[4px]"
           >
@@ -42,7 +42,7 @@
     </div>
     <div class="my-14 hidden lg:block">
       <img
-        src="https://res.cloudinary.com/godfadatun/image/upload/v1701054576/airava/heroImage_dpi9kq.png"
+        src="https://res.cloudinary.com/godfadatun/image/upload/v1701057926/airava/sddIMG-20231122-WA0012_1_rn2ylw.png"
         class="w-full rounded-[4px]"
         alt=""
       />

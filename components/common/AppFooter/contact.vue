@@ -15,7 +15,7 @@
             </div>
             <div class="flex justify-start mt-6 space-x-3 md:space-x-6">
               <a
-                href="https://forms.gle/NP4GSv5QNUjzkrxC8"
+                href="https://whatsform.com/j4wsw1"
                 target="_blank"
                 class="bg-white py-3 px-4 lg:py-6 lg:px-12 rounded-[4px]"
               >
@@ -44,7 +44,7 @@
               class="flex justify-start mt-6 text-sm md:text-md space-x-3 md:space-x-6"
             >
               <a
-                href="https://forms.gle/NP4GSv5QNUjzkrxC8"
+                href="https://whatsform.com/j4wsw1"
                 target="_blank"
                 class="bg-white py-3 px-3 lg:py-6 lg:px-12 rounded-[4px]"
               >
