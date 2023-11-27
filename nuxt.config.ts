@@ -7,10 +7,9 @@ export default defineNuxtConfig({
         {
           src: "https://whatsform.com/launcher.js",
           id: "wf-widget",
-          body: true,
           async: true,
           defer: true,
-          "data-id": "_ExmQL",
+          "data-id": "J4wsW1",
           "data-message": "Message on WhatsApp",
         },
       ],
