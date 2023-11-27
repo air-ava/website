@@ -6,15 +6,15 @@
       traveling solo or with a group, we have the perfect jet to suit your
       needs.
     </div>
-    <div class="py-4 md:py-8">
+    <!-- <div class="py-4 md:py-8">
       <a
-        href="https://whatsform.com/j4wsw1"
+        href="#"
         target="_blank"
         class="btn bg-primary text-sm md:text-md py-3 px-4 lg:py-6 lg:px-12 rounded-[4px]"
       >
         FAQs
       </a>
-    </div>
+    </div> -->
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
       <img
         src="https://res.cloudinary.com/godfadatun/image/upload/v1701054575/airava/fleet1_lvpeml.png"
