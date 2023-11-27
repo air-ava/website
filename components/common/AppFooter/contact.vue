@@ -1,11 +1,9 @@
 <template>
   <div class="bg-primary">
-    <div class="max-w-8xl mx-auto">
+    <div class="max-w-[1440px] mx-auto md:px-none">
       <div class="grid grid-cols-1 lg:grid-cols-7">
-        <div
-          class="hidden lg:block lg:col-span-4 py-14 max-w-4xl mx-auto px-6 md:px-1"
-        >
-          <div class="lg:w-4/5 mx-auto lg:pl-5 xxl:pl-30">
+        <div class="hidden lg:block lg:col-span-4 py-14 px-6 md:px-none">
+          <div class="pl-16">
             <div class="text-3xl lg:text-5xl app-font-Semibold set-text-white">
               Ready for an unparalleled travel experience?
             </div>
@@ -31,7 +29,7 @@
             </div>
           </div>
         </div>
-        <div class="block lg:hidden lg:col-span-4 py-14 px-6">
+        <div class="block lg:hidden lg:col-span-4 px-4 md:px-none py-14">
           <div class="">
             <div class="text-3xl lg:text-5xl app-font-Semibold set-text-white">
               Ready for an unparalleled travel experience?
@@ -46,14 +44,14 @@
               <a
                 href="https://whatsform.com/j4wsw1"
                 target="_blank"
-                class="bg-white text-sm py-3 px-3 lg:py-6 lg:px-12 rounded-[4px]"
+                class="bg-white text-sm py-3 px-4 lg:py-6 lg:px-12 rounded-[4px]"
               >
                 Book Now
               </a>
               <a
                 href="tel:+2347012345678"
                 target="_blank"
-                class="border border-white text-sm btn py-3 px-3 lg:py-6 lg:px-12 rounded-[4px]"
+                class="border border-white text-sm btn py-3 px-4 lg:py-6 lg:px-12 rounded-[4px]"
               >
                 Call +234 701 234 5678
               </a>

@@ -1,5 +1,5 @@
 <template>
-  <section class="max-w-7xl mx-auto px-6 md:px-none py-8">
+  <section class="max-w-7xl mx-auto px-4 md:px-none py-8">
     <nav class="flex items-center justify-between">
       <div><img src="/images/logo.svg" alt="" /></div>
       <div>

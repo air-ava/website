@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-7xl mx-auto px-6 md:px-none">
+  <div class="max-w-7xl mx-auto px-4 md:px-none">
     <section class="">
       <Hero />
       <Choose />
