@@ -10,7 +10,7 @@
       </div>
       <div>
         <div
-          class="text-3xl md:text-4xl lg:text-6xl app-font-Semibold md:w-[90%] leading-[118.4%]"
+          class="text-[34px] lg:text-6xl app-font-Semibold md:w-[90%] leading-[118.4%]"
         >
           Redefine your travel experience with Comfort, Speed & Style
         </div>
@@ -26,14 +26,14 @@
           <a
             href="https://whatsform.com/j4wsw1"
             target="_blank"
-            class="btn bg-primary text-sm md:text-md py-2 px-3 lg:py-6 lg:px-12 rounded-[4px]"
+            class="btn bg-primary text-sm md:text-md py-3 px-4 lg:py-6 lg:px-12 rounded-[4px]"
           >
             Book Now
           </a>
           <a
             href="tel:+2347012345678"
             target="_blank"
-            class="border text-sm border-black py-2 px-3 lg:py-6 lg:px-12 rounded-[4px]"
+            class="border text-sm border-black py-3 px-4 lg:py-6 lg:px-12 rounded-[4px]"
           >
             Call +234 701 234 5678
           </a>
