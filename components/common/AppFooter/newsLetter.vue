@@ -14,7 +14,9 @@
       />
     </div>
     <div>
-      <button class="bg-white py-3 px-6 rounded-[4px]">Subscribe</button>
+      <button class="bg-white py-3 px-6 text-sm rounded-[4px]">
+        Subscribe
+      </button>
     </div>
   </div>
 </template>
