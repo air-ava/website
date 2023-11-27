@@ -7,13 +7,33 @@
       needs.
     </div>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
-      <img src="/images/fleet1.png" class="w-full rounded-[4px]" alt="" />
-      <img src="/images/fleet2.png" class="w-full rounded-[4px]" alt="" />
+      <img
+        src="https://res.cloudinary.com/godfadatun/image/upload/v1701054575/airava/fleet1_lvpeml.png"
+        class="w-full rounded-[4px]"
+        alt=""
+      />
+      <img
+        src="https://res.cloudinary.com/godfadatun/image/upload/v1701054575/airava/fleet2_ypxvuk.png"
+        class="w-full rounded-[4px]"
+        alt=""
+      />
     </div>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-6">
-      <img src="/images/fleet3.png" class="w-full rounded-[4px]" alt="" />
-      <img src="/images/fleet4.png" class="w-full rounded-[4px]" alt="" />
-      <img src="/images/fleet5.png" class="w-full rounded-[4px]" alt="" />
+      <img
+        src="https://res.cloudinary.com/godfadatun/image/upload/v1701054577/airava/fleet3_ksmosx.png"
+        class="w-full rounded-[4px]"
+        alt=""
+      />
+      <img
+        src="https://res.cloudinary.com/godfadatun/image/upload/v1701054577/airava/fleet4_xfc148.png"
+        class="w-full rounded-[4px]"
+        alt=""
+      />
+      <img
+        src="https://res.cloudinary.com/godfadatun/image/upload/v1701054574/airava/fleet5_b9jo9a.png"
+        class="w-full rounded-[4px]"
+        alt=""
+      />
     </div>
   </div>
 </template>

@@ -19,7 +19,7 @@
         <div class="lg:col-span-5">
           <div>
             <img
-              src="/images/discover.png"
+              src="https://res.cloudinary.com/godfadatun/image/upload/v1701054577/airava/discover_aqzlmx.png"
               class="w-full rounded-[4px]"
               alt=""
             />

@@ -2,7 +2,11 @@
   <section class="pt-2 md:pt-14 pb-14">
     <div class="grid grid-cols-1 lg:grid-cols-2">
       <div class="block lg:hidden mb-4 md:mb-10">
-        <img src="/images/heroImage2.png" class="w-full rounded-[4px]" alt="" />
+        <img
+          src="https://res.cloudinary.com/godfadatun/image/upload/v1701054655/airava/IMG-20231122-WA0012_1_qpb864.png"
+          class="w-full rounded-[4px]"
+          alt=""
+        />
       </div>
       <div>
         <div
@@ -33,7 +37,11 @@
       </div>
     </div>
     <div class="my-14 hidden lg:block">
-      <img src="/images/heroImage.png" class="w-full rounded-[4px]" alt="" />
+      <img
+        src="https://res.cloudinary.com/godfadatun/image/upload/v1701054576/airava/heroImage_dpi9kq.png"
+        class="w-full rounded-[4px]"
+        alt=""
+      />
     </div>
   </section>
 </template>

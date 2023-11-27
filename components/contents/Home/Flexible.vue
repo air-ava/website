@@ -16,7 +16,11 @@
         </div>
         <div class="lg:col-span-5">
           <div>
-            <img src="/images/scheduling.png" class="rounded-[4px]" alt="" />
+            <img
+              src="https://res.cloudinary.com/godfadatun/image/upload/v1701054577/airava/scheduling_y9gtd3.png"
+              class="rounded-[4px]"
+              alt=""
+            />
           </div>
         </div>
       </div>

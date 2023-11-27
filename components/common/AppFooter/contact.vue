@@ -50,11 +50,18 @@
         </div>
         <div class="lg:col-span-3">
           <div class="max-w-3xl hidden lg:block">
-            <img src="/images/ready.png" alt="" />
+            <img
+              src="https://res.cloudinary.com/godfadatun/image/upload/v1701054575/airava/ready_tx9yhk.png"
+              alt=""
+            />
           </div>
           <div class="block lg:hidden">
             <div class="flex justify-center">
-              <img class="w-full" src="/images/ready.png" alt="" />
+              <img
+                class="w-full"
+                src="https://res.cloudinary.com/godfadatun/image/upload/v1701054575/airava/ready_tx9yhk.png"
+                alt=""
+              />
             </div>
           </div>
         </div>

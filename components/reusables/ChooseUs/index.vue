@@ -35,24 +35,26 @@ export default {
 <style scoped>
 .choose {
   background: linear-gradient(0deg, #000 0%, rgba(0, 0, 0, 0) 100%),
-    url(/images/choose1.png), no-repeat;
+    url(https://res.cloudinary.com/godfadatun/image/upload/v1701054572/airava/choose1_pshmvl.png),
+    no-repeat;
   background-size: cover;
 }
 
 .choose2 {
   background: linear-gradient(0deg, #000 0%, rgba(0, 0, 0, 0) 100%),
-    url(/images/choose2.png), no-repeat;
+    url(https://res.cloudinary.com/godfadatun/image/upload/v1701054574/airava/choose2_zsxxmy.png),
+    no-repeat;
   background-size: cover;
 }
 
 .choose3 {
   background: linear-gradient(0deg, #000 0%, rgba(0, 0, 0, 0) 100%),
-    url(/images/choose3.png);
+    url(https://res.cloudinary.com/godfadatun/image/upload/v1701054574/airava/choose3_t1visr.png);
 }
 
 .choose4 {
   background: linear-gradient(0deg, #000 0%, rgba(0, 0, 0, 0) 100%),
-    url(/images/choose4.png);
+    url(https://res.cloudinary.com/godfadatun/image/upload/v1701054573/airava/choose4_hvoojo.png);
 }
 
 .choose-title {
