@@ -16,7 +16,7 @@ export default defineNuxtConfig({
   },
   devtools: { enabled: true },
   css: ["~/assets/css/main.css"],
-  modules: ["nuxt-gtag"],
+  modules: ["nuxt-gtag", "@nuxtseo/module"],
   gtag: {
     id: "UA-165321862-1",
   },
@@ -24,6 +24,16 @@ export default defineNuxtConfig({
     plugins: {
       tailwindcss: {},
       autoprefixer: {},
+    },
+  },
+  site: {
+    url: "https://airava.org",
+    name: "Winged for your comfort",
+    description:
+      "Welcome to Ava, where you are winged for your comfort! We are thrilled to offer exclusive rentals on private jets worldwide tailored for those who value comfort...",
+    defaultLocale: "en",
+    identity: {
+      type: "Organization",
     },
   },
 });
