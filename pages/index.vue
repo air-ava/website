@@ -8,6 +8,7 @@
           to offer exclusive rentals on private jets worldwide tailored for
           those who value comfort...."
       />
+      <OgImage v-bind="ogImageOptions" />
     </Head>
     <Content />
   </div>

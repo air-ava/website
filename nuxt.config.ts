@@ -28,7 +28,7 @@ export default defineNuxtConfig({
   },
   site: {
     url: "https://airava.org",
-    name: "Winged for your comfort",
+    name: "Fly private in comfort speed and style",
     description:
       "Welcome to Ava, where you are winged for your comfort! We are thrilled to offer exclusive rentals on private jets worldwide tailored for those who value comfort...",
     defaultLocale: "en",
