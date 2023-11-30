@@ -8,19 +8,16 @@
           to offer exclusive rentals on private jets worldwide tailored for
           those who value comfort...."
       />
-      <OgImage v-bind="ogImageOptions" />
     </Head>
-    <Content />
+    <ContentsHome />
   </div>
 </template>
 
-<script>
-import Content from "@/components/contents/Home";
-export default {
-  components: {
-    Content,
-  },
-};
+<script setup lang="ts">
+useSeoMeta({
+  ogImage:
+    "https://res.cloudinary.com/godfadatun/image/upload/v1701054655/airava/IMG-20231122-WA0012_1_qpb864.png",
+});
 </script>
 
 <style></style>
